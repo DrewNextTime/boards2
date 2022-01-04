@@ -27,10 +27,10 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/woodBrickBoard.jpg",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/stock_kitchen2.jpg",
+        "image_overlay_opacity": 40,
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -80,15 +80,6 @@
         "show_image_outline": true,
         "show_vendor": false,
         "show_rating": false
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
       }
     },
     "multi_column": {
@@ -143,7 +134,6 @@
     "image_banner",
     "rich_text",
     "featured_products",
-    "video",
     "multi_column"
   ]
 }
