@@ -7,8 +7,10 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "serif",
-    "type_body_font": "sans-serif",
+    "type_header_font": "armata_n4",
+    "heading_scale": 100,
+    "type_body_font": "archivo_n4",
+    "body_scale": 105,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -33,7 +35,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "inverse",
-          "logo_width": 140,
+          "logo_width": 110,
           "logo_position": "top-center",
           "menu": "main-menu",
           "show_line_separator": true,
