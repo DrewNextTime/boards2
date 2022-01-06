@@ -4,9 +4,16 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "164149250996841df4": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "164149250996841df4"
   ]
 }
