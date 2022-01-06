@@ -29,6 +29,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/stock_kitchen2.jpg",
         "image_overlay_opacity": 40,
+        "banner_box_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
