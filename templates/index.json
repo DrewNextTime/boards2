@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Unique EAT ME Boards",
+            "heading": "Unique Boards",
             "heading_size": "large"
           }
         },
@@ -14,9 +14,9 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Order Custom Boards",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify:\/\/pages\/custom-boards",
             "button_style_secondary_1": true,
-            "button_label_2": "Available Boards",
+            "button_label_2": "Check out Available Boards",
             "button_link_2": "shopify:\/\/collections",
             "button_style_secondary_2": false
           }
@@ -27,7 +27,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/stock_kitchen2.jpg",
+        "image": "shopify:\/\/shop_images\/woodBrickBoard.jpg",
         "image_overlay_opacity": 40,
         "banner_box_opacity": 0,
         "image_height": "small",
