@@ -1,46 +1,5 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unique Boards",
-            "heading_size": "medium"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Order Custom Boards",
-            "button_link_1": "shopify:\/\/pages\/custom-boards",
-            "button_style_secondary_1": true,
-            "button_label_2": "Check out Available Boards",
-            "button_link_2": "shopify:\/\/collections",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/woodBrickBoard.jpg",
-        "image_overlay_opacity": 40,
-        "banner_box_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -85,7 +44,6 @@
     }
   },
   "order": [
-    "image_banner",
     "rich_text",
     "featured_products"
   ]
